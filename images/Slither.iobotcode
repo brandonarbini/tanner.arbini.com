@@ -151,3 +151,4 @@ getOffset: function() {
     return {x: xDim, y: yDim};
 }
 this.eyes = new EyePair(this
+# HACK: 
